@@ -6,7 +6,7 @@
 
   ![Status](./imgs/spongebob-computer.gif)
    </div> 
- <h2 align="center">"Quando tudo nos parece dar errado, acontecem coisas boas que não teriam acontecido se tudo tivesse dado certo" <sub>-Renato Russo</sub></h2>
+ <h5 align="center">"Quando tudo nos parece dar errado, acontecem coisas boas que não teriam acontecido se tudo tivesse dado certo" <sub>-Renato Russo</sub></h5>
 
 
   
