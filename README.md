@@ -1,4 +1,7 @@
-<h1 align="center">⚡Hi 👋  I'm Raldnei!⚡</h1>
+<p align="center">
+  <a href="https://github.com/Raldnei/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%A1Hi+%F0%9F%91%8B+I%27m+Raldnei!%E2%9A%A1&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=32" />
+</p>
 <br>
 
 <div align="center" >
