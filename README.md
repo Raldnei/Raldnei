@@ -1,7 +1,6 @@
 <h1 align="center">⚡Hi 👋  I'm Raldnei!⚡</h1>
 <br>
 
-
 <div align="center" >
 
   ![Status](./imgs/spongebob-computer.gif)
