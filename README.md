@@ -22,13 +22,13 @@
   <br />
 
 <div align="center">
-  <a href="https:github.com/Raldnei">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" />
   </a>
   <a href="">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon" />
   </a>
-  <a href="instagram.com/raldnei.miguel">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon" />
   </a>
 </div>
