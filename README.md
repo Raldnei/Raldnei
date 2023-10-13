@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">⚡Hi 👋  I'm Raldnei!⚡</h1>
+<br>
 <div align="center" >
 
   ![Status](./imgs/spongebob-computer.gif)
@@ -6,7 +7,7 @@
  
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrKitKat&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrKitKat&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raldnei&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raldnei&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
@@ -22,7 +23,7 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=SrKitKat&row=1&column=1&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Raldnei&row=1&column=1&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
 <!--
