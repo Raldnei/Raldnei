@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://github.com/Raldnei">
-<img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%A1Hi+%F0%9F%91%8B+I%27m+Raldnei!%E2%9A%A1&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=32" />
+<img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%A1Hi+%F0%9F%91%8B+I%27m+Raldnei!%E2%9A%A1&font=Fira%20Code&center=true&width=1080&height=200&color=00BFFF&vCenter=true&pause=1000&size=65" />
 </p>
-<br>
+    <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=150&color=00FF28&multiline=true&repeat=false&random=false&width=1080&height=200&lines=Sou+estudante+de+An%C3%A1lise+e+desenvolvimento+de+Sistemas;O+perfil+est%C3%A1+em+desenvolvimento%2C+qualquer+d%C3%BAvida+n%C3%A3o;hesite+em+perguntar!" alt="Typing SVG" /></a></p>
 
+<br>
 <div align="center" >
 
   ![Status](./imgs/spongebob-computer.gif)
