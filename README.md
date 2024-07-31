@@ -2,7 +2,7 @@
   <a href="https://github.com/Raldnei">
 <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%A1Hi+%F0%9F%91%8B+I%27m+Raldnei!%E2%9A%A1&font=Fira%20Code&center=true&width=1080&height=200&color=00BFFF&vCenter=true&pause=1000&size=65" />
 </p>
-    <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F704&center=falso&vCenter=true&repeat=true&random=falso&width=435&lines=P%C3%A1gina+em+Desenvolvimento" alt="Typing SVG" /></a></p>
+    <p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F700&width=435&lines=Ops+ocorreu+um+erro%2C+tente+novamente." alt="Typing SVG" /></a></p>
 
 <br>
 <div align="center" >
